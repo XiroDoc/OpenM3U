@@ -1,5 +1,8 @@
 {
-  "carName": "Benz",
-  "year": 2024,
-  "seats": 4
+  "car":
+  {
+    "carName": "Benz",
+    "year": 2024,
+    "seats": 4
+  }
 }
